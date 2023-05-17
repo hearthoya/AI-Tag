@@ -1,0 +1,1 @@
+To compile and run our program write “javac *.java” in the terminal to compile all classes and then “java Main” to run our program. Users will then use the keyboard to select the modes and maps they’d like to play and play as the red player using WASD and/or using IJKL to control the blue player in the PvP mode.
